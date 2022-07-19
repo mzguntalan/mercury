@@ -69,7 +69,7 @@ pose to serve as the reference of the rest of the objects within the same class.
 
 This dataset is of the shapenet dataset as a point cloud hosted [here](https://github.com/antao97/PointCloudDatasets).
 
-
+## Airplane
 <p>
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-0-animation.gif?raw=true" width="250">
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-1-animation.gif?raw=true" width="250">
@@ -79,6 +79,7 @@ This dataset is of the shapenet dataset as a point cloud hosted [here](https://g
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-5-animation.gif?raw=true" width="250">
 </p>
 
+## Bench
 <p>
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-bench-0-animation.gif?raw=true" width="250">
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-bench-1-animation.gif?raw=true" width="250">
@@ -88,6 +89,7 @@ This dataset is of the shapenet dataset as a point cloud hosted [here](https://g
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-bench-5-animation.gif?raw=true" width="250">
 </p>
 
+## Cabinet
 <p>
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-cabinet-0-animation.gif?raw=true" width="250">
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-cabinet-1-animation.gif?raw=true" width="250">
@@ -97,6 +99,7 @@ This dataset is of the shapenet dataset as a point cloud hosted [here](https://g
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-cabinet-5-animation.gif?raw=true" width="250">
 </p>
 
+## Chair
 <p>
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-chair-0-animation.gif?raw=true" width="250">
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-chair-1-animation.gif?raw=true" width="250">
@@ -106,6 +109,7 @@ This dataset is of the shapenet dataset as a point cloud hosted [here](https://g
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-chair-5-animation.gif?raw=true" width="250">
 </p>
 
+## Guitar
 <p>
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-guitar-0-animation.gif?raw=true" width="250">
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-guitar-1-animation.gif?raw=true" width="250">
@@ -115,6 +119,7 @@ This dataset is of the shapenet dataset as a point cloud hosted [here](https://g
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-guitar-5-animation.gif?raw=true" width="250">
 </p>
 
+## Mug 
 <p>
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-mug-0-animation.gif?raw=true" width="250">
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-mug-1-animation.gif?raw=true" width="250">
@@ -124,6 +129,7 @@ This dataset is of the shapenet dataset as a point cloud hosted [here](https://g
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-mug-5-animation.gif?raw=true" width="250">
 </p>
 
+## Rifle
 <p>
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-rifle-0-animation.gif?raw=true" width="250">
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-rifle-1-animation.gif?raw=true" width="250">
@@ -133,6 +139,7 @@ This dataset is of the shapenet dataset as a point cloud hosted [here](https://g
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-rifle-5-animation.gif?raw=true" width="250">
 </p>
 
+## Sofa
 <p>
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-sofa-0-animation.gif?raw=true" width="250">
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-sofa-1-animation.gif?raw=true" width="250">
@@ -142,6 +149,7 @@ This dataset is of the shapenet dataset as a point cloud hosted [here](https://g
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-sofa-5-animation.gif?raw=true" width="250">
 </p>
 
+## Speaker
 <p>
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-speaker-0-animation.gif?raw=true" width="250">
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-speaker-1-animation.gif?raw=true" width="250">
@@ -151,15 +159,7 @@ This dataset is of the shapenet dataset as a point cloud hosted [here](https://g
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-speaker-5-animation.gif?raw=true" width="250">
 </p>
 
-<p>
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-speaker-0-animation.gif?raw=true" width="250">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-speaker-1-animation.gif?raw=true" width="250">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-speaker-2-animation.gif?raw=true" width="250">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-speaker-3-animation.gif?raw=true" width="250">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-speaker-4-animation.gif?raw=true" width="250">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-speaker-5-animation.gif?raw=true" width="250">
-</p>
-
+## Table
 <p>
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-table-0-animation.gif?raw=true" width="250">
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-table-1-animation.gif?raw=true" width="250">
@@ -169,6 +169,7 @@ This dataset is of the shapenet dataset as a point cloud hosted [here](https://g
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-table-5-animation.gif?raw=true" width="250">
 </p>
 
+## Telephone
 <p>
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-telephone-0-animation.gif?raw=true" width="250">
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-telephone-1-animation.gif?raw=true" width="250">
