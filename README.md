@@ -3,6 +3,8 @@ Unsupervised Point Cloud Pose Canonicalization By Approximating the Plane/s of S
 
 ![animation](https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-3-animation.gif?raw=true)
 
+(Head over to the bottom portion of the page to view other results)
+
 # Canonicalization
 Given an object represented as a point set, or more commonly 
 called **point cloud** in computer vision, $K \in [-1,1]^{s \times d}$ with $s$ 
@@ -60,7 +62,7 @@ To canonicalize to an object $K$ to a reference $K_\textnormal{ref}$(already in 
 canonicalize $K$ as $C(K)$ and find a rotation of $C(K)$ that minimizes its chamfer distance with
 $K_\textnormal{ref}$ - these rotations are constrained such that the rotation can only be 
 $R_\alpha R_\beta R_\gamma$ where $\alpha \in {0, \pi}$ is the yaw angle, 
-$\beta \in {0, 0.5\pi, \pi} is the pitch angle, and $\gamma \in {0, \pi$ is the roll angle.
+$\beta \in {0, 0.5\pi, \pi}$ is the pitch angle, and $\gamma \in {0, \pi$ is the roll angle.
 
 # Results
 Here are rotating objects and their canonicalized counter part, they are canonicalized to a reference 
