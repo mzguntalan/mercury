@@ -67,6 +67,8 @@ Here are rotating objects and their canonicalized counter part, they are canonic
 where, for each, set of object of the same class, the first of such object is canonicalized to a 
 pose to serve as the reference of the rest of the objects within the same class.  
 
+This dataset is of the shapenet dataset as a point cloud hosted [here](https://github.com/antao97/PointCloudDatasets).
+
 
 <p>
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-0-animation.gif?raw=true" width="250">
@@ -175,3 +177,6 @@ pose to serve as the reference of the rest of the objects within the same class.
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-telephone-4-animation.gif?raw=true" width="250">
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-telephone-5-animation.gif?raw=true" width="250">
 </p>
+
+# Dependencies
+This projects depends on jax and numpy for computation, h5py for reading the datasets, tqdm, matplotlib, and imageio for creating the animations.
