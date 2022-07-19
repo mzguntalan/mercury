@@ -69,11 +69,11 @@ pose to serve as the reference of the rest of the objects within the same class.
 
 
 <p>
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-0-animation.gif?raw=true" width="30%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-1-animation.gif?raw=true" width="30%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-2-animation.gif?raw=true" width="30%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-3-animation.gif?raw=true" width="30%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-4-animation.gif?raw=true" width="30%" align="top">
+    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-0-animation.gif?raw=true" width="30%">
+    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-1-animation.gif?raw=true" width="30%">
+    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-2-animation.gif?raw=true" width="30%">
+    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-3-animation.gif?raw=true" width="30%">
+    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-4-animation.gif?raw=true" width="30%">
 </p>
 
 [//]: # (<p>)
