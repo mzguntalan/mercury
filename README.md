@@ -1,7 +1,7 @@
 # mercury
 Unsupervised Point Cloud Pose Canonicalization By Approximating the Plane/s of Symmetry
 
-![caonicalized-airplane-animation](https://drive.google.com/file/d/15nStQy6DaxjBv35VtgrE6Q0flChuXMHS/view?usp=sharing)
+![animation](https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-3-animation.gif?raw=true)
 
 # Canonicalization
 Given an object represented as a point set, or more commonly 
