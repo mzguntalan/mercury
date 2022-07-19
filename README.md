@@ -67,90 +67,160 @@ Here are rotating objects and their canonicalized counter part, they are canonic
 where, for each, set of object of the same class, the first of such object is canonicalized to a 
 pose to serve as the reference of the rest of the objects within the same class.  
 
-<p float="left">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-0-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-1-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-2-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-3-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-4-animation.gif?raw=true" width="20%" align="top">
+
+<p>
+    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-0-animation.gif?raw=true" width="30%" align="top">
+    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-1-animation.gif?raw=true" width="30%" align="top">
+    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-2-animation.gif?raw=true" width="30%" align="top">
+    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-3-animation.gif?raw=true" width="30%" align="top">
+    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-airplane-4-animation.gif?raw=true" width="30%" align="top">
 </p>
 
-<p float="left">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-bench-0-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-bench-1-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-bench-2-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-bench-3-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-bench-4-animation.gif?raw=true" width="20%" align="top">
-</p>
+[//]: # (<p>)
 
-<p float="left">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-cabinet-0-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-cabinet-1-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-cabinet-2-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-cabinet-3-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-cabinet-4-animation.gif?raw=true" width="20%" align="top">
-</p>
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-bench-0-animation.gif?raw=true" width="20%" align="top">)
 
-<p float="left">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-chair-0-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-chair-1-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-chair-2-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-chair-3-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-chair-4-animation.gif?raw=true" width="20%" align="top">
-</p>
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-bench-1-animation.gif?raw=true" width="20%" align="top">)
 
-<p float="left">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-guitar-0-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-guitar-1-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-guitar-2-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-guitar-3-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-guitar-4-animation.gif?raw=true" width="20%" align="top">
-</p>
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-bench-2-animation.gif?raw=true" width="20%" align="top">)
 
-<p float="left">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-mug-0-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-mug-1-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-mug-2-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-mug-3-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-mug-4-animation.gif?raw=true" width="20%" align="top">
-</p>
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-bench-3-animation.gif?raw=true" width="20%" align="top">)
 
-<p float="left">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-rifle-0-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-rifle-1-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-rifle-2-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-rifle-3-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-rifle-4-animation.gif?raw=true" width="20%" align="top">
-</p>
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-bench-4-animation.gif?raw=true" width="20%" align="top">)
 
-<p float="left">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-sofa-0-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-sofa-1-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-sofa-2-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-sofa-3-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-sofa-4-animation.gif?raw=true" width="20%" align="top">
-</p>
+[//]: # (</p>)
 
-<p float="left">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-speaker-0-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-speaker-1-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-speaker-2-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-speaker-3-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-speaker-4-animation.gif?raw=true" width="20%" align="top">
-</p>
+[//]: # ()
+[//]: # (<p>)
 
-<p float="left">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-table-0-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-table-1-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-table-2-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-table-3-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-table-4-animation.gif?raw=true" width="20%" align="top">
-</p>
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-cabinet-0-animation.gif?raw=true" width="20%" align="top">)
 
-<p float="left">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-telephone-0-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-telephone-1-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-telephone-2-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-telephone-3-animation.gif?raw=true" width="20%" align="top">
-    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-telephone-4-animation.gif?raw=true" width="20%" align="top">
-</p>
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-cabinet-1-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-cabinet-2-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-cabinet-3-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-cabinet-4-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (<p>)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-chair-0-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-chair-1-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-chair-2-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-chair-3-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-chair-4-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (<p>)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-guitar-0-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-guitar-1-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-guitar-2-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-guitar-3-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-guitar-4-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (<p>)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-mug-0-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-mug-1-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-mug-2-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-mug-3-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-mug-4-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (<p>)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-rifle-0-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-rifle-1-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-rifle-2-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-rifle-3-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-rifle-4-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (<p>)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-sofa-0-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-sofa-1-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-sofa-2-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-sofa-3-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-sofa-4-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (<p>)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-speaker-0-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-speaker-1-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-speaker-2-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-speaker-3-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-speaker-4-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (<p>)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-table-0-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-table-1-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-table-2-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-table-3-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-table-4-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (<p>)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-telephone-0-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-telephone-1-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-telephone-2-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-telephone-3-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (    <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-telephone-4-animation.gif?raw=true" width="20%" align="top">)
+
+[//]: # (</p>)
