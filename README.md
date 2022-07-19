@@ -20,7 +20,7 @@ for some rotation $R_3$. In other words, a canonicalization brings the object to
 # Motivation
 This study was largely motivated by the ideas presented and articulated by Hinton on humans thinking in 
 coordinate frames or instrinsic axes. In one of his talks, he said that humans have a 
-preferred axis by which we frame objects, usually by a \textit{long axis} (a term we leave to define 
+preferred axis by which we frame objects, usually by a _long axis_ (a term we leave to define 
 intuitively as an axis where the object is longest). Using this notion, we can identify the long axis 
 of the object and canonicalize by rotating such that this long axis lies on any preferred axis 
 (say the $y$ axis, or any other axis). 
@@ -61,8 +61,8 @@ of object parts and do is not perfect.
 To canonicalize to an object $K$ to a reference $K_\textnormal{ref}$(already in canonical pose), we 
 canonicalize $K$ as $C(K)$ and find a rotation of $C(K)$ that minimizes its chamfer distance with
 $K_\textnormal{ref}$ - these rotations are constrained such that the rotation can only be 
-$R_\alpha R_\beta R_\gamma$ where $\alpha \in {0, \pi}$ is the yaw angle, 
-$\beta \in {0, 0.5\pi, \pi}$ is the pitch angle, and $\gamma \in {0, \pi$ is the roll angle.
+$R_\alpha R_\beta R_\gamma$ where $\alpha \in \{0, \pi\}$ is the yaw angle, 
+$\beta \in \{0, 0.5\pi, \pi\}$ is the pitch angle, and $\gamma \in \{0, \pi\}$ is the roll angle.
 
 # Results
 Here are rotating objects and their canonicalized counter part, they are canonicalized to a reference 
