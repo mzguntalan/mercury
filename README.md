@@ -10,7 +10,7 @@ Given an object represented as a point set, or more commonly
 called **point cloud** in computer vision, $K \in [-1,1]^{s \times d}$ with $s$ 
 number of $d$-dimensional points (specifically, we use $d=3$ here for 3-d points), two 
 rotations $R_1, R_2 \in \mathbb{R}^{3\times 3}$, such that we obtain two 
-rotations of the object $KR_1^T$ and $KR_2^T$ (check: this formula), a 
+rotations of the object $KR_1^T$ and $KR_2^T$, a 
 **canonicalization**  $C(\cdot)$ is such that 
 
 $$C(KR_1^T) = C(KR_2^T) = KR_3^T$$
