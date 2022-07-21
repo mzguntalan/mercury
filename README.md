@@ -181,5 +181,11 @@ This dataset is of the shapenet dataset as a point cloud hosted [here](https://g
     <img src="https://github.com/mzguntalan/mercury-demo-files/blob/main/demo-animations/demo-telephone-5-animation.gif?raw=true" width="250">
 </p>
 
+# Significance
+When dealing with datasets, we usually apply some form of data preparation to allow models to learn much easier: this comes in the forms of mean-centering, variance normalization, scaling, or sometimes feature engineering. The methods of canonicalization proposed here can be an addition for models dealing with uncanonicalized point cloud datasets - a model does not need to familiarize itself with many rotations of the same object, but instead, with just one canonicalized way - this can serve as a data preparation for such, because this is easy to compute and requires no training. 
+
+Also, instead of training a model to be invariant to random rotations which may lengthen training, we can instead train on just their canonicalized pose (since this canonicalization is invariant to rotations).
+
+
 # Dependencies
 This projects depends on jax and numpy for computation, h5py for reading the datasets, tqdm, matplotlib, and imageio for creating the animations.
